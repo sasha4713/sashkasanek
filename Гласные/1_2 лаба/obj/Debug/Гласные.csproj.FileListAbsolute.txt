@@ -1,0 +1,7 @@
+D:\лабы\1_3 лаба\1_2 лаба\bin\Debug\1_2 лаба.exe.config
+D:\лабы\1_3 лаба\1_2 лаба\bin\Debug\1_2 лаба.exe
+D:\лабы\1_3 лаба\1_2 лаба\bin\Debug\1_2 лаба.pdb
+D:\лабы\1_3 лаба\1_2 лаба\obj\Debug\Гласные.csprojAssemblyReference.cache
+D:\лабы\1_3 лаба\1_2 лаба\obj\Debug\Гласные.csproj.CoreCompileInputs.cache
+D:\лабы\1_3 лаба\1_2 лаба\obj\Debug\1_2 лаба.exe
+D:\лабы\1_3 лаба\1_2 лаба\obj\Debug\1_2 лаба.pdb
