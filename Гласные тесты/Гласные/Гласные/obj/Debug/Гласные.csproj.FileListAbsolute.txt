@@ -1,0 +1,7 @@
+C:\Users\Александр\Desktop\Гласные\Гласные\Гласные\bin\Debug\Гласные.exe.config
+C:\Users\Александр\Desktop\Гласные\Гласные\Гласные\bin\Debug\Гласные.exe
+C:\Users\Александр\Desktop\Гласные\Гласные\Гласные\bin\Debug\Гласные.pdb
+C:\Users\Александр\Desktop\Гласные\Гласные\Гласные\obj\Debug\Гласные.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Гласные\Гласные\Гласные\obj\Debug\Гласные.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Гласные\Гласные\Гласные\obj\Debug\Гласные.exe
+C:\Users\Александр\Desktop\Гласные\Гласные\Гласные\obj\Debug\Гласные.pdb
